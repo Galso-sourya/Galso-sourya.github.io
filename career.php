@@ -20,4 +20,6 @@ $read = file('names.txt');
   Name: <input type="text" name="text" /> 
   <input type="submit" name="submit" />
 </form>
-</body></html>
+
+</body>
+</html>
